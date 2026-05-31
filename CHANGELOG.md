@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.19.1](https://github.com/mvanhorn/cli-printing-press/compare/v4.19.0...v4.19.1) (2026-05-31)
+
+
+### Bug Fixes
+
+* **cli:** pass context to async job no-cache polling ([#2456](https://github.com/mvanhorn/cli-printing-press/issues/2456)) ([1872817](https://github.com/mvanhorn/cli-printing-press/commit/1872817ad58713d24cd86921892a4b6d08e50995))
+
 ## [4.19.0](https://github.com/mvanhorn/cli-printing-press/compare/v4.18.1...v4.19.0) (2026-05-28)
 
 
